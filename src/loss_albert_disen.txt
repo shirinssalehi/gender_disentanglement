@@ -1,0 +1,12 @@
+n_ranking = 668
+2023-12-07 23:44:32 - Use pytorch device: cuda
+2023-12-07 23:45:00 - Warmup-steps: 5000
+loss ranking: 0.7235182523727417 loss_attribute: 0.676653265953064 loss_adv_Attribute: 0.6570117473602295 loss_entropy_attribute:  0.0 
+
+
+loss ranking: 0.32705479860305786 loss_attribute: 0.14672282338142395 loss_adv_Attribute: 0.6882617473602295 loss_entropy_attribute:  0.0 
+
+
+loss ranking: 0.11416532099246979 loss_attribute: 0.0128015773370862 loss_adv_Attribute: 0.6257617473602295 loss_entropy_attribute:  0.0 
+
+

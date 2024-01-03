@@ -1,0 +1,29 @@
+2023-12-07 23:48:11 - Use pytorch device: cuda
+2023-12-07 23:48:39 - Warmup-steps: 5000
+loss ranking: 0.7138317823410034 
+
+
+loss ranking: 0.31912359595298767 
+
+
+loss ranking: 0.12581050395965576 
+
+
+loss ranking: 0.29535993933677673 
+
+
+loss ranking: 0.05183239281177521 
+
+
+loss ranking: 0.17147523164749146 
+
+
+loss ranking: 0.09152578562498093 
+
+
+loss ranking: 0.38073569536209106 
+
+
+loss ranking: 0.1225728988647461 
+
+
